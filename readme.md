@@ -44,4 +44,4 @@ Run the code as
 $ python3 test.py
 
 The code expects a block of text and will write out the result to result.json
-
+I don't give a grade to the overall ToS, but I do show helpful statistics.
