@@ -15,7 +15,7 @@ You don't need to run (1) and (2), as I have supplied all the relevant data in .
 ### Installation
 
 The relevant python3 packages required are mentioned in requirements.txt
-If you have a GPU, and wish to actually train the model, follow the instructions at https://spacy.io/usage ; Don't forget to tick the train models button
+If you have a GPU, and wish to actually train the model, follow the instructions at https://spacy.io/usage ; Don't forget to tick the train models button.
 You need to download "en_core_web_sm".
 
 ### Model and Training
