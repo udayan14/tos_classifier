@@ -5,6 +5,7 @@ Code is split up between three notebooks. The descriptions are as follows
 
 1) preprocess.ipynb -> This notebook reads in the json files from https://github.com/tosdr/tosdr.org/tree/master/api/1/service
 						It then extracts the relevant parts and stores the result in ./data/data.pkl
+						We need the json data to be stored locally for now, so do clone that repo and change the path accordingly.
 
 2) setup.ipynb      -> This notebook splits the data.pkl into training(80%) and validation(20%) sets and writes them to the disk in a binary format.
 
